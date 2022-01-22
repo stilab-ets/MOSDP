@@ -35,6 +35,29 @@
 |ageWithRespectTo | Age in weeks | The age of the given file in weeks |
 |weightedAgeWithRespectTo | Age in weeks | The age of the given file in weeks weighted my the number of lines of the file.|
 
+**Eclipse dataset metrics**
+|Metric|Name|Definition|
+|:---|:---|:---|
+|FOUT (avg, max, total) |Fan out | Number of method calls (avg, max, total) |
+|MLOC (avg, max, total) |Methods lines of code  | The lines of code of the class methods (avg, max, total) |
+|NBD (avg, max, total) |Nested block depth | Nested block depth for the considered class (avg, max, total) |
+|PAR (avg, max, total) |Number of parameters | Number of parameters for the class methods (avg, max, total) |
+|VG (avg, max, total) | McCabe cyclomatic complexity |McCabe cyclomatic complexity for the class methods (avg, max, total) |
+|NOF (avg, max, total) |Number of fields |Number of fields for the class methods (avg, max, total) |
+|NOM (avg, max, total) |Number of methods |Number of class methods  (avg, max, total) |
+|NSF (avg, max, total) |Number of static fields |Number of static fields for a class (avg, max, total) |
+|NSM (avg, max, total) |Number of static methods|Number of static fields for a class (avg, max, total) |
+|ACD |Number of anonymous type declarations|Number of anonymous type declarations in the considered file|
+|NOI  |Number of interfaces|Number of interfaces in the considered file|
+|NOT |Number of classes|Number of classes in the considered file|
+|TLOC | Total lines of code| Total lines of code the considered file|
+|Pre | pre-release defects|The number of pre-release defects of the file in the past 6 months|
+
+
+
+
+
+
 
 
 
