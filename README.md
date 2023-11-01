@@ -1,5 +1,5 @@
 # MOSDP replication package
-Replication package for the paper "On the Performance and Interpretability of Search-based Software Defects Prediction"
+Replication package for the paper "Learning Software Defect Prediction Models Using Multi-Objective Genetic Programming"
 
 We provide the necessary data to replicate validation results in our study : 
 
